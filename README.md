@@ -2,7 +2,7 @@
 <htm1>
 <head>
 <meta charset="utf-8">
-<title>2018219017_김용진</title>
+2018219017_김용진
 </head>
 <body>
 <h1>김용진의 Github.io 자기소개서</h1>
